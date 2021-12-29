@@ -1,0 +1,11 @@
+:root{
+    --color-lgbt: linear-gradient(120deg, #FE0000 6.66%,
+    #FD8C00 16.66%,
+    #FFE500 33.32%,
+    #119F0B 49.98%,
+    #0644B3 66.64%,
+    #C22EDC 83.3%);
+    --color-pomb-and-power: #7C5E99;
+    --color-verse: #051932;
+    --color-floral-white: #FFFCEE
+}
