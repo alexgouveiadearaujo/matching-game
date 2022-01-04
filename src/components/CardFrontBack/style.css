@@ -1,4 +1,5 @@
 .card-front-back{
+    cursor: pointer;
     position: relative;
     --width: 130px;
     --height: 160px;
