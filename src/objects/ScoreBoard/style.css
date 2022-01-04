@@ -1,4 +1,5 @@
 .score-board{
+    align-items: center;
     display: flex;
     justify-content: space-evenly;
     padding: 2.5rem 0;
