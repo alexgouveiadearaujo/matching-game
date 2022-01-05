@@ -1,7 +1,7 @@
 import CardGame from "../CardGame";
 import "./style.css";
 
-function CardFrontBack() {
+function CardFrontBack(icon , altIcon) {
 
     window.cardFrontBack = {}
     window.cardFrontBack.handleClick = ({target}) => {
@@ -17,7 +17,7 @@ function CardFrontBack() {
             </div>
 
             <div class="card -back">
-                ${CardGame("javascript", "logo do js")}
+                ${CardGame(icon, altIcon)}
             </div>
         </article>
     `;
